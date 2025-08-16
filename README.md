@@ -1,2 +1,2 @@
-# Offline-customer-review-analyzer
+# Offline-ai customer-review-analyzer
 Offline customer-review-analyzer
